@@ -1,3 +1,3 @@
-### Landing page for vehicle close-up.
+### Inactive Landing page for vehicle close-up.
 
 ## HTML && CSS
